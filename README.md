@@ -1,5 +1,5 @@
-# "This is JS Day - 7 Task"
-**Date: 24-05-2024**
+# "This is JS Day - 6 Task"
+**Date: 11-05-2024**
 
 # Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).
 
